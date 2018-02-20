@@ -21,7 +21,6 @@ let login = (url, username, password) => {
 					} else {
 						reject(res);
 					}
-					resolve(res.statusCode);
 				} else {
 					reject(new Error(body));
 				}
