@@ -1,0 +1,24 @@
+{
+  "name": "basic-auth-client-promise",
+  "version": "1.0.0",
+  "description": "You can use this to know if your credentials are correct for authentication on a given server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cleydyr/basic-auth-client-promise.git"
+  },
+  "keywords": [
+    "basic",
+    "authentication",
+    "login"
+  ],
+  "author": "Cleydyr de Albuquerque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleydyr/basic-auth-client-promise/issues"
+  },
+  "homepage": "https://github.com/cleydyr/basic-auth-client-promise#readme"
+}
