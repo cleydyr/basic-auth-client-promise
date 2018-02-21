@@ -1,6 +1,6 @@
 {
   "name": "basic-auth-client-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "You can use this to know if your credentials are correct for authentication on a given server.",
   "main": "index.js",
   "scripts": {
