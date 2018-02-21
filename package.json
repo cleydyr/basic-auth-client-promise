@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cleydyr/basic-auth-client-promise/issues"
   },
-  "homepage": "https://github.com/cleydyr/basic-auth-client-promise#readme"
+  "homepage": "https://github.com/cleydyr/basic-auth-client-promise#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
