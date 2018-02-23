@@ -19,7 +19,7 @@ let login = (url, username, password) => {
 					if (res.statusCode == 200) {
 						resolve(res);
 					} else {
-						reject(res);
+						reject(new Error(res));
 					}
 				} else {
 					reject(new Error(body));
