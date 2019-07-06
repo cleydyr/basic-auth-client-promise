@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/cleydyr/basic-auth-client-promise#readme",
   "dependencies": {
-    "request": "^2.85.0"
+    "request": "^2.88.0"
   }
 }
